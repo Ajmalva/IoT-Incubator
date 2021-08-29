@@ -8,7 +8,7 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "Jnf_iX16PYUtkNCyFvamZDomkeg6RJLk"; //Enter the Auth code which was send by Blink
+char auth[] = " "; //Enter the Auth code which was send by Blink
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
